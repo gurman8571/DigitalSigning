@@ -51,4 +51,4 @@ jobs:
           app-name: 'Digital-Signing'
           slot-name: 'Production'
           package: '*.jar'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_CEF8F06CC07C43FB96783540A219B823 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E5F006C2FA734316BE72352CB331A24F }}
